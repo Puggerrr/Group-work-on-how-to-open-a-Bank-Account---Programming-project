@@ -1,4 +1,4 @@
-# Group-work-on-how-to-open-a-Bank-Account---Programming-project
+# Group-work-on-how-to-open-a-Bank-Account---Programming- website project
 GROUP MEMBERS
 
 Dakudzie Prince 01244650B
